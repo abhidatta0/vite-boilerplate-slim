@@ -6,6 +6,9 @@ export default {
   ],
   theme: {
     extend: {},
+    fontFamily:{
+      'sans':'Kanit, Arial, sans-serif',
+    },
   },
   plugins: [],
 }
