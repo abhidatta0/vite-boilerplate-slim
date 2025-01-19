@@ -1,4 +1,4 @@
-# React + TypeScript + Vite
+# React + TypeScript + Vite + Tailwind
 
 This is a "slimmed" down version of the vite boilerplate.
 It has no css and minimal tsx.   
