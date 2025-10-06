@@ -6,7 +6,9 @@ It has no css and minimal tsx.
 ✅ React 18.2
 ✅ Typescript
 ✅ Vite
-✅ Tailwind
+✅ Tailwind   
+
+✅ Formatting Setup: ESLint, Prettier, Husky & Lint-staged
 
 
 ### The boilerplate uses "Kanit" as the font-family. You can change from `index.css` file
