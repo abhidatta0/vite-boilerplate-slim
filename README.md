@@ -12,3 +12,9 @@ It has no css and minimal tsx.
 
 
 ### The boilerplate uses "Kanit" as the font-family. You can change from `index.css` file
+
+## This repo is PNPM based. If NPM is needed, do the following:
+```
+- Delete package-lock.json and node_modules(if already present) 
+- Run : pnpm i
+```
