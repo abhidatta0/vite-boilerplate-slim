@@ -3,7 +3,7 @@ It has no css and minimal tsx.
 
 <b>Use this as base for your future React projects.Clone on!</b>
 
-✅ React 18.2
+✅ React 19.2
 ✅ Typescript
 ✅ Vite
 ✅ Tailwind   
